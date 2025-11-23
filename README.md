@@ -146,6 +146,6 @@ Saved output_lenna.ppm
 
 ## 👨‍💻 Author
 
-**Mihai-Alexandru Crăciun**  
-LinkedIn  
-GitHub: https://github.com/mihaicraciun1902
+**Mihai-Alexandru Crăciun**
+* [LinkedIn](https://www.linkedin.com/in/craciunmihai1902/)
+* [GitHub](https://github.com/mihaicraciun1902)
