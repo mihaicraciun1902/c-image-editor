@@ -44,7 +44,7 @@ Unlike high-level libraries that abstract away the heavy lifting, this project i
 
 ---
 
-## 🔧 Technical Highlights (For Recruiters)
+## 🔧 Technical Highlights
 
 This project showcases core fundamentals of **systems programming**:
 
